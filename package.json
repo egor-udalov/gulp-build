@@ -1,0 +1,11 @@
+{
+    "name": "gulp-builder",
+    "version": "1.0.0",
+    "description": "gulp-builder for weblayout",
+    "author": "egor-udalov",
+    "main": "gulpfile.js",
+    "license": "ISC",
+    "devDependencies": {
+        "gulp": "^4.0.2"
+    }
+}
