@@ -1,2 +1,2 @@
 # gulp-build
-Gulp сборка
+Gulp build V1.0.0
